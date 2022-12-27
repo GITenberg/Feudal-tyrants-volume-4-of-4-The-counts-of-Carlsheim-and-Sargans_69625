@@ -1,0 +1,46 @@
+_repo: Feudal-tyrants-volume-4-of-4-The-counts-of-Carlsheim-and-Sargans_69625
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lewis, M. G. (Matthew Gregory)
+    aliases:
+    - Lewis, Matthew Gregory
+    - Lewis, Monk
+    birthdate: 1775
+    deathdate: 1818
+    gutenberg_agent_id: '315'
+    url: http://www.gutenberg.org/2009/agents/315
+    wikipedia: https://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+creator:
+  author:
+    agent_name: Naubert, Benedikte
+    aliases:
+    - Naubert, Christiane Benedicte Eugenie Hebenstreit
+    - Naubert, Benedicte
+    - Naubert, B. (Benedikte)
+    birthdate: 1756
+    deathdate: 1819
+    gutenberg_agent_id: '55311'
+    url: http://www.gutenberg.org/2009/agents/55311
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benedikte_Naubert
+    - https://de.wikipedia.org/wiki/Benedikte_Naubert
+description: ''
+gutenberg_issued: '2022-12-23'
+identifiers:
+  gutenberg: '69625'
+language: en
+pgterms:marc905: 20210728194128naubert
+pgterms:marc906: '1807'
+pgterms:marc907: GB
+production_note: Barry Abrahamsen and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United Kingdom: J. F. Hughes,1807.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Feudal tyrants, volume 4 (of 4): The counts of Carlsheim and Sargans'
+url: http://www.gutenberg.org/ebooks/69625
